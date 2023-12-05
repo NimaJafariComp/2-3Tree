@@ -1,7 +1,7 @@
 
 public class TreeTest {
     public static void main(String[] args) {
-        Tree234 tree = new Tree23();
+        Tree23 tree = new Tree23();
         tree.insert(100);
         tree.insert(90);
         tree.insert(105);
